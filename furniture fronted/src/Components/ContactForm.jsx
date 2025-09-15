@@ -10,8 +10,8 @@ function ContactForm() {
   // console.log(formData);
   //////////////////////////////////////////////
   let [formData1, setFromData1] = useState({ firstName: "hello" })
-  let [formData2, setFromData2] = useState({ lastName: "jangid" })
-  let [formData3, setFromData3] = useState({ email: "jangid@gmail.com" })
+  let [formData2, setFromData2] = useState({ lastName: "Ravindra" })
+  let [formData3, setFromData3] = useState({ email: "ravindrameenaji12@gmail.com" })
   let [formData4, setFromData4] = useState({ message: "jangid hello" })
   // console.log(formData1["firstName"]);
 
